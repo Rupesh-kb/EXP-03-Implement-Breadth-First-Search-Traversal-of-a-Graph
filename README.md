@@ -1,10 +1,14 @@
 # EXP-03-Implement-Breadth-First-Search-Traversal-of-a-Graph
+<H1>NAME: RUPESH K</H1>
+<H2>REG NO.: 212224060223</H2>
+
 Breadth First Search Traversal of a Graph
 
+AIM:
 
-AIM: 
+To Implement Breadth First Search Traversal of a Graph using Python 3
+
 Theory: 
-To Implement Breadth First Search Traversal of a Graph using Python 3. 
 
 Breadth-First Traversal (or Search) for a graph is like the Breadth-First Traversal of a tree. 
 The only catch here is that, unlike trees, graphs may contain cycles so that we may come to the same 
